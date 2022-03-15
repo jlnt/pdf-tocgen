@@ -1,0 +1,253 @@
+I. PRELIMINARIES ABOUT THE INTEGERS, POLYNOMIALS, AND MATRICES
+1. Division and Euclidean Algorithms
+2. Unique Factorization of Integers
+3. Unique Factorization of Polynomials
+4. Permutations and Their Signs
+5. Row Reduction
+6. Matrix Operations
+7. Problems
+
+1
+1
+4
+9
+15
+19
+24
+30
+
+II. VECTOR SPACES OVER Q, R, AND C
+1. Spanning, Linear Independence, and Bases
+2. Vector Spaces Defined by Matrices
+3. Linear Maps
+4. Dual Spaces
+5. Quotients of Vector Spaces
+6. Direct Sums and Direct Products of Vector Spaces
+7. Determinants
+8. Eigenvectors and Characteristic Polynomials
+9. Bases in the Infinite-Dimensional Case
+10. Problems
+
+33
+33
+38
+42
+50
+54
+58
+65
+73
+78
+82
+
+III. INNER-PRODUCT SPACES
+1. Inner Products and Orthonormal Sets
+2. Adjoints
+3. Spectral Theorem
+4. Problems
+
+89
+89
+99
+105
+112
+
+IV. GROUPS AND GROUP ACTIONS
+1. Groups and Subgroups
+2. Quotient Spaces and Homomorphisms
+3. Direct Products and Direct Sums
+4. Rings and Fields
+5. Polynomials and Vector Spaces
+6. Group Actions and Examples
+7. Semidirect Products
+8. Simple Groups and Composition Series
+9. Structure of Finitely Generated Abelian Groups
+10. Sylow Theorems
+11. Categories and Functors
+12. Problems
+
+117
+118
+129
+135
+141
+148
+159
+167
+171
+176
+185
+189
+200
+
+V. THEORY OF A SINGLE LINEAR TRANSFORMATION
+1. Introduction
+2. Determinants over Commutative Rings with Identity
+3. Characteristic and Minimal Polynomials
+4. Projection Operators
+5. Primary Decomposition
+6. Jordan Canonical Form
+7. Computations with Jordan Form
+8. Problems
+
+211
+211
+215
+218
+226
+228
+231
+238
+241
+
+VI. MULTILINEAR ALGEBRA
+1. Bilinear Forms and Matrices
+2. Symmetric Bilinear Forms
+3. Alternating Bilinear Forms
+4. Hermitian Forms
+5. Groups Leaving a Bilinear Form Invariant
+6. Tensor Product of Two Vector Spaces
+7. Tensor Algebra
+8. Symmetric Algebra
+9. Exterior Algebra
+10. Problems
+
+248
+249
+253
+256
+258
+260
+263
+277
+283
+291
+295
+
+VII. ADVANCED GROUP THEORY
+1. Free Groups
+2. Subgroups of Free Groups
+3. Free Products
+4. Group Representations
+5. Burnside’s Theorem
+6. Extensions of Groups
+7. Problems
+
+306
+306
+317
+322
+329
+345
+347
+360
+
+VIII. COMMUTATIVE RINGS AND THEIR MODULES
+1. Examples of Rings and Modules
+2. Integral Domains and Fields of Fractions
+3. Prime and Maximal Ideals
+4. Unique Factorization
+5. Gauss’s Lemma
+6. Finitely Generated Modules
+7. Orientation for Algebraic Number Theory and Algebraic Geometry
+8. Noetherian Rings and the Hilbert Basis Theorem
+9. Integral Closure
+10. Localization and Local Rings
+11. Dedekind Domains
+12. Problems
+
+370
+370
+381
+384
+387
+393
+399
+411
+417
+420
+428
+437
+443
+
+IX. FIELDS AND GALOIS THEORY
+1. Algebraic Elements
+2. Construction of Field Extensions
+3. Finite Fields
+4. Algebraic Closure
+5. Geometric Constructions by Straightedge and Compass
+6. Separable Extensions
+7. Normal Extensions
+8. Fundamental Theorem of Galois Theory
+9. Application to Constructibility of Regular Polygons
+10. Application to Proving the Fundamental Theorem of Algebra
+11. Application to Unsolvability of Polynomial Equations with Nonsolvable Galois Group
+12. Construction of Regular Polygons
+13. Solution of Certain Polynomial Equations with Solvable Galois Group
+14. Proof That π Is Transcendental
+15. Norm and Trace
+16. Splitting of Prime Ideals in Extensions
+17. Two Tools for Computing Galois Groups
+18. Problems
+
+452
+453
+457
+461
+464
+468
+474
+481
+484
+489
+492
+493
+499
+506
+515
+519
+526
+532
+539
+
+X. MODULES OVER NONCOMMUTATIVE RINGS
+1. Simple and Semisimple Modules
+2. Composition Series
+3. Chain Conditions
+4. Hom and End for Modules
+5. Tensor Product for Modules
+6. Exact Sequences
+7. Problems
+
+553
+553
+560
+565
+567
+574
+583
+587
+
+APPENDIX
+A1. Sets and Functions
+A2. Equivalence Relations
+A3. Real Numbers
+A4. Complex Numbers
+A5. Partial Orderings and Zorn’s Lemma
+A6. Cardinality
+Hints for Solutions of Problems
+Selected References
+Index of Notation
+Index
+
+593
+593
+599
+601
+604
+605
+610
+615
+715
+717
+721

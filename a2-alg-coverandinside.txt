@@ -1,0 +1,239 @@
+I. TRANSITION TO MODERN NUMBER THEORY
+1. Historical Background
+2. Quadratic Reciprocity
+3. Equivalence and Reduction of Quadratic Forms
+4. Composition of Forms, Class Group
+5. Genera
+6. Quadratic Number Fields and Their Units
+7. Relationship of Quadratic Forms to Ideals
+8. Primes in the Progressions 4n + 1 and 4n + 3
+9. Dirichlet Series and Euler Products
+10. Dirichlet’s Theorem on Primes in Arithmetic Progressions
+11. Problems
+
+1
+1
+8
+12
+24
+31
+35
+38
+50
+56
+61
+67
+
+II. WEDDERBURN–ARTIN RING THEORY
+1. Historical Motivation
+2. Semisimple Rings and Wedderburn’s Theorem
+3. Rings with Chain Condition and Artin’s Theorem
+4. Wedderburn–Artin Radical
+5. Wedderburn’s Main Theorem
+6. Semisimplicity and Tensor Products
+7. Skolem–Noether Theorem
+8. Double Centralizer Theorem
+9. Wedderburn’s Theorem about Finite Division Rings
+10. Frobenius’s Theorem about Division Algebras over the Reals
+11. Problems
+
+76
+77
+81
+87
+89
+94
+104
+111
+114
+117
+118
+120
+
+III. BRAUER GROUP
+1. Definition and Examples, Relative Brauer Group
+2. Factor Sets
+3. Crossed Products
+4. Hilbert’s Theorem 90
+5. Digression on Cohomology of Groups
+6. Relative Brauer Group when the Galois Group Is Cyclic
+7. Problems
+
+123
+124
+132
+135
+145
+147
+158
+162
+
+IV. HOMOLOGICAL ALGEBRA
+1. Overview
+2. Complexes and Additive Functors
+3. Long Exact Sequences
+4. Projectives and Injectives
+5. Derived Functors
+6. Long Exact Sequences of Derived Functors
+7. Ext and Tor
+8. Abelian Categories
+9. Problems
+
+166
+167
+171
+184
+192
+202
+210
+223
+232
+250
+
+V. THREE THEOREMS IN ALGEBRAIC NUMBER THEORY
+1. Setting
+2. Discriminant
+3. Dedekind Discriminant Theorem
+4. Cubic Number Fields as Examples
+5. Dirichlet Unit Theorem
+6. Finiteness of the Class Number
+7. Problems
+
+262
+262
+266
+274
+279
+288
+298
+307
+
+VI. REINTERPRETATION WITH ADELES AND IDELES
+1. p-adic Numbers
+2. Discrete Valuations
+3. Absolute Values
+4. Completions
+5. Hensel’s Lemma
+6. Ramification Indices and Residue Class Degrees
+7. Special Features of Galois Extensions
+8. Different and Discriminant
+9. Global and Local Fields
+10. Adeles and Ideles
+11. Problems
+
+313
+314
+320
+331
+342
+349
+353
+368
+371
+382
+388
+397
+
+VII. INFINITE FIELD EXTENSIONS
+1. Nullstellensatz
+2. Transcendence Degree
+3. Separable and Purely Inseparable Extensions
+4. Krull Dimension
+5. Nonsingular and Singular Points
+6. Infinite Galois Groups
+7. Problems
+
+403
+404
+408
+414
+423
+428
+434
+445
+
+VIII. BACKGROUND FOR ALGEBRAIC GEOMETRY
+1. Historical Origins and Overview
+2. Resultant and Bezout’s Theorem
+3. Projective Plane Curves
+4. Intersection Multiplicity for a Line with a Curve
+5. Intersection Multiplicity for Two Curves
+6. General Form of Bezout’s Theorem for Plane Curves
+7. Gröbner Bases
+8. Constructive Existence
+9. Uniqueness of Reduced Gröbner Bases
+10. Simultaneous Systems of Polynomial Equations
+11. Problems
+
+447
+448
+451
+456
+466
+473
+488
+491
+499
+508
+510
+516
+
+IX. THE NUMBER THEORY OF ALGEBRAIC CURVES
+1. Historical Origins and Overview
+2. Divisors
+3. Genus
+4. Riemann–Roch Theorem
+5. Applications of the Riemann–Roch Theorem
+6. Problems
+
+520
+520
+531
+534
+540
+552
+554
+
+X. METHODS OF ALGEBRAIC GEOMETRY
+1. Affine Algebraic Sets and Affine Varieties
+2. Geometric Dimension
+3. Projective Algebraic Sets and Projective Varieties
+4. Rational Functions and Regular Functions
+5. Morphisms
+6. Rational Maps
+7. Zariski’s Theorem about Nonsingular Points
+8. Classification Questions about Irreducible Curves
+9. Affine Algebraic Sets for Monomial Ideals
+10. Hilbert Polynomial in the Affine Case
+11. Hilbert Polynomial in the Projective Case
+12. Intersections in Projective Space
+13. Schemes
+14. Problems
+
+558
+559
+563
+570
+579
+590
+595
+600
+604
+618
+626
+633
+635
+638
+644
+
+APPENDIX
+Hints for Solutions of Problems
+Selected References
+Index of Notation
+Index
+
+649
+649
+713
+717
+721
