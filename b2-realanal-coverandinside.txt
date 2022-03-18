@@ -1,0 +1,337 @@
+I. THEORY OF CALCULUS IN ONE REAL VARIABLE
+1. Review of Real Numbers, Sequences, Continuity
+2. Interchange of Limits
+3. Uniform Convergence
+4. Riemann Integral
+5. Complex-Valued Functions
+6. Taylor’s Theorem with Integral Remainder
+7. Power Series and Special Functions
+8. Summability
+9. Weierstrass Approximation Theorem
+10. Fourier Series
+11. Problems
+
+1
+2
+13
+15
+26
+41
+43
+45
+54
+59
+62
+78
+
+II. METRIC SPACES
+1. Definition and Examples
+2. Open Sets and Closed Sets
+3. Continuous Functions
+4. Sequences and Convergence
+5. Subspaces and Products
+6. Properties of Metric Spaces
+7. Compactness and Completeness
+8. Connectedness
+9. Baire Category Theorem
+10. Properties of C(S) for Compact Metric S
+11. Completion
+12. Problems
+
+83
+84
+92
+96
+98
+103
+106
+109
+116
+118
+122
+128
+131
+
+III. THEORY OF CALCULUS IN SEVERAL REAL VARIABLES
+1. Operator Norm
+2. Nonlinear Functions and Differentiation
+3. Vector-Valued Partial Derivatives and Riemann Integrals
+4. Exponential of a Matrix
+5. Partitions of Unity
+6. Inverse and Implicit Function Theorems
+7. Definition and Properties of Riemann Integral
+8. Riemann Integrable Functions
+9. Fubini’s Theorem for the Riemann Integral
+10. Change of Variables for the Riemann Integral
+11. Arc Length and Integrals with Respect to Arc Length
+12. Line Integrals and Conservative Vector Fields
+13. Green’s Theorem in the Plane
+14. Problems
+
+136
+136
+140
+147
+149
+152
+153
+162
+167
+171
+173
+181
+194
+203
+212
+
+IV. THEORY OF ORDINARY DIFFERENTIAL EQUATIONS AND SYSTEMS
+1. Qualitative Features and Examples
+2. Existence and Uniqueness
+3. Dependence on Initial Conditions and Parameters
+4. Integral Curves
+5. Linear Equations and Systems, Wronskian
+6. Homogeneous Equations with Constant Coefficients
+7. Homogeneous Systems with Constant Coefficients
+8. Series Solutions in the Second-Order Linear Case
+9. Problems
+
+218
+218
+222
+229
+234
+236
+243
+246
+253
+261
+
+V. LEBESGUE MEASURE AND ABSTRACT MEASURE THEORY
+1. Measures and Examples
+2. Measurable Functions
+3. Lebesgue Integral
+4. Properties of the Integral
+5. Proof of the Extension Theorem
+6. Completion of a Measure Space
+7. Fubini’s Theorem for the Lebesgue Integral
+8. Integration of Complex-Valued and Vector-Valued Functions
+9. L 1 , L 2 , L ∞ , and Normed Linear Spaces
+10. Arc Length and Lebesgue Integration
+11. Problems
+
+267
+267
+274
+277
+281
+289
+298
+301
+310
+315
+325
+327
+
+VI. MEASURE THEORY FOR EUCLIDEAN SPACE
+1. Lebesgue Measure and Other Borel Measures
+2. Convolution
+3. Borel Measures on Open Sets
+4. Comparison of Riemann and Lebesgue Integrals
+5. Change of Variables for the Lebesgue Integral
+6. Hardy–Littlewood Maximal Theorem
+7. Fourier Series and the Riesz–Fischer Theorem
+8. Stieltjes Measures on the Line
+9. Fourier Series and the Dirichlet–Jordan Theorem
+10. Distribution Functions
+11. Problems
+
+334
+335
+344
+352
+356
+358
+365
+372
+377
+384
+388
+390
+
+VII. DIFFERENTIATION OF LEBESGUE INTEGRALS ON THE LINE
+1. Differentiation of Monotone Functions
+2. Absolute Continuity, Singular Measures, and Lebesgue Decomposition
+3. Problems
+
+395
+395
+402
+408
+
+VIII. FOURIER TRANSFORM IN EUCLIDEAN SPACE
+1. Elementary Properties
+2. Fourier Transform on L 1 , Inversion Formula
+3. Fourier Transform on L 2 , Plancherel Formula
+4. Schwartz Space
+5. Poisson Summation Formula
+6. Poisson Integral Formula
+7. Hilbert Transform
+8. Problems
+
+411
+411
+415
+419
+422
+427
+430
+435
+442
+
+IX. L p SPACES
+1. Inequalities and Completeness
+2. Convolution Involving L p
+3. Jordan and Hahn Decompositions
+4. Radon–Nikodym Theorem
+5. Continuous Linear Functionals on L p
+6. Riesz–Thorin Convexity Theorem
+7. Marcinkiewicz Interpolation Theorem
+8. Problems
+
+448
+448
+456
+458
+459
+463
+466
+476
+484
+
+X. TOPOLOGICAL SPACES
+1. Open Sets and Constructions of Topologies
+2. Properties of Topological Spaces
+3. Compactness and Local Compactness
+4. Product Spaces and the Tychonoff Product Theorem
+5. Sequences and Nets
+6. Quotient Spaces
+7. Urysohn’s Lemma
+8. Metrization in the Separable Case
+9. Ascoli–Arzelà and Stone–Weierstrass Theorems
+10. Problems
+
+490
+490
+496
+500
+507
+512
+520
+523
+525
+526
+529
+
+XI. INTEGRATION ON LOCALLY COMPACT SPACES
+1. Setting
+2. Riesz Representation Theorem
+3. Regular Borel Measures
+4. Dual to Space of Finite Signed Measures
+5. Problems
+
+534
+534
+539
+553
+558
+566
+
+XII. HILBERT AND BANACH SPACES
+1. Definitions and Examples
+2. Geometry of Hilbert Space
+3. Bounded Linear Operators on Hilbert Spaces
+4. Hahn–Banach Theorem
+5. Uniform Boundedness Theorem
+6. Interior Mapping Principle
+7. Problems
+
+570
+570
+576
+585
+587
+593
+595
+599
+
+APPENDIX A. BACKGROUND TOPICS
+A1. Sets and Functions
+A2. Mean Value Theorem and Some Consequences
+A3. Inverse Function Theorem in One Variable
+A4. Complex Numbers
+A5. Classical Schwarz Inequality
+A6. Equivalence Relations
+A7. Linear Transformations, Matrices, and Determinants
+A8. Factorization and Roots of Polynomials
+A9. Partial Orderings and Zorn’s Lemma
+A10. Cardinality
+
+603
+603
+610
+611
+613
+614
+614
+615
+618
+623
+627
+
+APPENDIX B. ELEMENTARY COMPLEX ANALYSIS
+B1. Complex Derivative and Analytic Functions
+B2. Complex Line Integrals
+B3. Goursat’s Lemma and the Cauchy Integral Theorem
+B4. Cauchy Integral Formula
+B5. Taylor’s Theorem
+B6. Local Properties of Analytic Functions
+B7. Logarithms and Winding Numbers
+B8. Operations on Taylor Series
+B9. Argument Principle
+B10. Residue Theorem
+B11. Evaluation of Definite Integrals
+B12. Global Theorems in Simply Connected Regions
+B13. Global Theorems in General Regions
+B14. Laurent Series
+B15. Holomorphic Functions of Several Variables
+B16. Problems
+
+631
+632
+636
+641
+648
+654
+656
+660
+665
+669
+673
+675
+681
+694
+696
+701
+704
+
+BACK MATTER
+Hints for Solutions of Problems
+Selected References
+Index of Notation
+Index
+
+715
+715
+793
+795
+799

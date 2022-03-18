@@ -1,4 +1,4 @@
-all: b2-alg-coverandinside-toc.pdf a2-alg-coverandinside-toc.pdf
+all: b2-alg-coverandinside-toc.pdf a2-alg-coverandinside-toc.pdf b2-realanal-coverandinside-toc.pdf
 
 clean:
 	rm -f *_meta.txt *_bookmark.txt *-toc.pdf
@@ -22,3 +22,13 @@ a2-alg-coverandinside_bookmark.txt: a2-alg-coverandinside.txt
 a2-alg-coverandinside-toc.pdf: a2-alg-coverandinside_meta.txt a2-alg-coverandinside_bookmark.txt
 	cat a2-alg-coverandinside_meta.txt a2-alg-coverandinside_bookmark.txt |\
 	pdftk a2-alg-coverandinside.pdf update_info - output a2-alg-coverandinside-toc.pdf
+
+b2-realanal-coverandinside_meta.txt:   b2-realanal-coverandinside.pdf
+	pdftk b2-realanal-coverandinside.pdf dump_data output b2-realanal-coverandinside_meta.txt
+
+b2-realanal-coverandinside_bookmark.txt: b2-realanal-coverandinside.txt
+	./generate_toc.py -f b2-realanal-coverandinside.txt -o 30 > b2-realanal-coverandinside_bookmark.txt
+
+b2-realanal-coverandinside-toc.pdf: b2-realanal-coverandinside_meta.txt b2-realanal-coverandinside_bookmark.txt
+	cat b2-realanal-coverandinside_meta.txt b2-realanal-coverandinside_bookmark.txt |\
+	pdftk b2-realanal-coverandinside.pdf update_info - output b2-realanal-coverandinside-toc.pdf
