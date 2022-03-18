@@ -235,10 +235,6 @@ A3. Real Numbers
 A4. Complex Numbers
 A5. Partial Orderings and Zorn’s Lemma
 A6. Cardinality
-Hints for Solutions of Problems
-Selected References
-Index of Notation
-Index
 
 593
 593
@@ -247,6 +243,14 @@ Index
 604
 605
 610
+
+BACK MATTER
+Hints for Solutions of Problems
+Selected References
+Index of Notation
+Index
+
+615
 615
 715
 717
