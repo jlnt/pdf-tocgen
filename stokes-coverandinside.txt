@@ -1,0 +1,65 @@
+I. SMOOTH MANIFOLDS
+1. Smooth Manifolds, Vector Fields, Derivatives, and Differentials
+2. Properties of Exterior Algebras
+3. Differential Forms and Pullbacks
+4. Exterior Derivative
+5. Smooth Partitions of Unity
+6. Orientation and Integration on Smooth Manifolds
+7. Problems
+
+1
+1
+12
+21
+27
+33
+36
+48
+
+II. MANIFOLDS-WITH-BOUNDARY
+1. Stokes’s Theorem for Manifolds without Boundary
+2. Elementary Properties and Examples
+3. Induced Orientation on the Boundary
+4. Stokes’s Theorem for Manifolds-with-Boundary
+5. Classical Vector Analysis
+6. Low Dimensional Cases of Stokes’s Theorem
+7. Problems
+
+56
+56
+59
+66
+71
+74
+79
+89
+
+III. WHITNEY’S SETTING FOR STOKES’S THEOREM
+1. Definition and Examples of Manifolds-With-Corners
+2. Index and Strata
+3. Stokes’s Theorem for Manifolds-with-Corners
+4. Whitney’s Generalization of the Divergence Theorem
+5. Sets with ` Dimensional Minkowski Content Zero
+6. Whitney’s Global Form of Stokes’s Theorem
+7. Problems
+
+92
+93
+100
+101
+104
+109
+118
+122
+
+BACK MATTER
+Hints for Solutions of Problems
+Selected References
+Index of Notation
+Index
+
+126
+126
+145
+147
+149
