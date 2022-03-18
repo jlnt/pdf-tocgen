@@ -1,0 +1,221 @@
+I. INTRODUCTION TO BOUNDARY-VALUE PROBLEMS
+1. Partial Differential Operators
+2. Separation of Variables
+3. Sturm–Liouville Theory
+4. Problems
+
+1
+1
+3
+19
+31
+
+II. COMPACT SELF-ADJOINT OPERATORS
+1. Compact Operators
+2. Spectral Theorem for Compact Self-Adjoint Operators
+3. Hilbert–Schmidt Theorem
+4. Unitary Operators
+5. Classes of Compact Operators
+6. Problems
+
+34
+34
+36
+41
+45
+46
+52
+
+III. TOPICS IN EUCLIDEAN FOURIER ANALYSIS
+1. Tempered Distributions
+2. Weak Derivatives and Sobolev Spaces
+3. Harmonic Functions
+4. H p Theory
+5. Calderón–Zygmund Theorem
+6. Applications of the Calderón–Zygmund Theorem
+7. Multiple Fourier Series
+8. Application to Traces of Integral Operators
+9. Problems
+
+54
+54
+60
+69
+80
+83
+92
+96
+97
+99
+
+IV. TOPICS IN FUNCTIONAL ANALYSIS
+1. Topological Vector Spaces
+2. C∞ (U), Distributions, and Support
+3. Weak and Weak-Star Topologies, Alaoglu’s Theorem
+4. Stone Representation Theorem
+5. Linear Functionals and Convex Sets
+6. Locally Convex Spaces
+7. Topology on C∞/com (U)
+8. Krein–Milman Theorem
+9. Fixed-Point Theorems
+10. Gelfand Transform for Commutative C* Algebras
+11. Spectral Theorem for Bounded Self-Adjoint Operators
+12. Problems
+
+105
+106
+112
+116
+121
+125
+128
+131
+140
+143
+146
+160
+173
+
+V. DISTRIBUTIONS
+1. Continuity on Spaces of Smooth Functions
+2. Elementary Operations on Distributions
+3. Convolution of Distributions
+4. Role of Fourier Transform
+5. Fundamental Solution of Laplacian
+6. Problems
+
+179
+179
+187
+189
+202
+206
+207
+
+VI. COMPACT AND LOCALLY COMPACT GROUPS
+1. Topological Groups
+2. Existence and Uniqueness of Haar Measure
+3. Modular Function
+4. Invariant Measures on Quotient Spaces
+5. Convolution and L p Spaces
+6. Representations of Compact Groups
+7. Peter–Weyl Theorem
+8. Fourier Analysis Using Compact Groups
+9. Problems
+
+212
+213
+220
+230
+234
+237
+240
+251
+256
+264
+
+VII. ASPECTS OF PARTIAL DIFFERENTIAL EQUATIONS
+1. Introduction via Cauchy Data
+2. Orientation
+3. Local Solvability in the Constant-Coefficient Case
+4. Maximum Principle in the Elliptic Second-Order Case
+5. Parametrices for Elliptic Equations with Constant Coefficients
+6. Method of Pseudodifferential Operators
+7. Problems
+
+275
+275
+283
+292
+296
+300
+305
+317
+
+VIII. ANALYSIS ON MANIFOLDS
+1. Differential Calculus on Smooth Manifolds
+2. Vector Fields and Integral Curves
+3. Identification Spaces
+4. Vector Bundles
+5. Distributions and Differential Operators on Manifolds
+6. More about Euclidean Pseudodifferential Operators
+7. Pseudodifferential Operators on Manifolds
+8. Further Developments
+9. Problems
+
+321
+322
+331
+334
+338
+348
+355
+361
+366
+370
+
+IX. FOUNDATIONS OF PROBABILITY
+1. Measure-Theoretic Foundations
+2. Independent Random Variables
+3. Kolmogorov Extension Theorem
+4. Strong Law of Large Numbers
+5. Convergence in Distribution
+6. Portmanteau Lemma
+7. Characteristic Functions
+8. Lévy Continuity Theorem
+9. Central Limit Theorem
+10. Statistical Inference and Gosset’s t Distribution
+11. Problems
+
+375
+375
+383
+390
+397
+403
+406
+409
+411
+412
+417
+429
+
+X. INTRODUCTION TO WAVELETS
+1. Introduction
+2. Haar Wavelet
+3. Multiresolution Analysis
+4. Shannon Wavelet
+5. Construction of a Wavelet from a Scaling Function
+6. Meyer Wavelets
+7. Splines
+8. Battle–Lemarié Wavelets
+9. Daubechies Wavelets
+10. Smoothness Questions
+11. A Quick Introduction to Applications
+12. Problems
+
+434
+435
+443
+454
+465
+468
+472
+476
+487
+498
+520
+528
+540
+
+BACK MATTER
+Hints for Solutions of Problems
+Selected References
+Index of Notation
+Index
+
+545
+545
+603
+607
+611
