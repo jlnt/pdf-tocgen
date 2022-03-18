@@ -226,7 +226,7 @@ X. METHODS OF ALGEBRAIC GEOMETRY
 638
 644
 
-APPENDIX
+BACK MATTER
 Hints for Solutions of Problems
 Selected References
 Index of Notation
